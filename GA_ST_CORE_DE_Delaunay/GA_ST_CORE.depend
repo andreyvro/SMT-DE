@@ -1,0 +1,1007 @@
+# depslib dependency file v1.0
+1520457002 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/Vertice.h
+
+1518841783 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Grafo.cpp
+	"Grafo.h"
+
+1518838056 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1522788924 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1520799779 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1520798656 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1520826034 /home/andrey/arvore_steiner_codigos/GA_ST_CORE/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1520823457 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Vertice.cpp
+	"Vertice.h"
+
+1522793441 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/GA.cpp
+	"GA.h"
+
+1520902613 source:/home/andrey/arvore_steiner_codigos/GA_ST_CORE/Individuo.cpp
+	"Individuo.h"
+
+1522942472 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/Codigos10(marco1)/GA_ST_CORE/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/Codigos10(marco1)/GA_ST_CORE/Vertice.h
+
+1530502359 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/Grafo.cpp
+	"Grafo.h"
+
+1530502173 /home/andrey/Codigos10(marco1)/GA_ST_CORE/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1530502299 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/Individuo.cpp
+	"Individuo.h"
+
+1530502283 /home/andrey/Codigos10(marco1)/GA_ST_CORE/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1522788924 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1520799779 /home/andrey/Codigos10(marco1)/GA_ST_CORE/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1530507814 /home/andrey/Codigos10(marco1)/GA_ST_CORE/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1520823457 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/Vertice.cpp
+	"Vertice.h"
+
+1530507998 source:/home/andrey/Codigos10(marco1)/GA_ST_CORE/GA.cpp
+	"GA.h"
+
+1522942472 source:/home/andrey/Codigos10/GA_ST_CORE/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/Codigos10/GA_ST_CORE/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/Codigos10/GA_ST_CORE/Vertice.h
+
+1530502359 source:/home/andrey/Codigos10/GA_ST_CORE/Grafo.cpp
+	"Grafo.h"
+
+1530502173 /home/andrey/Codigos10/GA_ST_CORE/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1530591653 source:/home/andrey/Codigos10/GA_ST_CORE/Individuo.cpp
+	"Individuo.h"
+
+1530591681 /home/andrey/Codigos10/GA_ST_CORE/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1530832701 source:/home/andrey/Codigos10/GA_ST_CORE/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1530555835 /home/andrey/Codigos10/GA_ST_CORE/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1530777113 /home/andrey/Codigos10/GA_ST_CORE/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555901 source:/home/andrey/Codigos10/GA_ST_CORE/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Codigos10/GA_ST_CORE/Vertice.cpp
+	"Vertice.h"
+
+1534380981 source:/home/andrey/Codigos10/GA_ST_CORE/GA.cpp
+	"GA.h"
+
+1522942472 source:/home/andrey/Codigos10/GA_ST_CORE_1/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/Codigos10/GA_ST_CORE_1/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/Codigos10/GA_ST_CORE_1/Vertice.h
+
+1530502359 source:/home/andrey/Codigos10/GA_ST_CORE_1/Grafo.cpp
+	"Grafo.h"
+
+1530502173 /home/andrey/Codigos10/GA_ST_CORE_1/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1530591653 source:/home/andrey/Codigos10/GA_ST_CORE_1/Individuo.cpp
+	"Individuo.h"
+
+1530591681 /home/andrey/Codigos10/GA_ST_CORE_1/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1530832701 source:/home/andrey/Codigos10/GA_ST_CORE_1/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1530555835 /home/andrey/Codigos10/GA_ST_CORE_1/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1530777113 /home/andrey/Codigos10/GA_ST_CORE_1/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555901 source:/home/andrey/Codigos10/GA_ST_CORE_1/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Codigos10/GA_ST_CORE_1/Vertice.cpp
+	"Vertice.h"
+
+1534808619 source:/home/andrey/Codigos10/GA_ST_CORE_1/GA.cpp
+	"GA.h"
+
+1522942472 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Vertice.h
+
+1536023405 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/GA.cpp
+	"GA.h"
+
+1535943318 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555835 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1530591681 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1530502173 /home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1530502359 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Grafo.cpp
+	"Grafo.h"
+
+1530591653 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Individuo.cpp
+	"Individuo.h"
+
+1530832701 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1530555901 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Documentos/Codigos10/GA_ST_CORE_1/Vertice.cpp
+	"Vertice.h"
+
+1522942472 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/Aux.cpp
+	"Aux.h"
+
+1520456873 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1518841768 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/Vertice.h
+
+1530502359 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/Grafo.cpp
+	"Grafo.h"
+
+1530502173 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1530591653 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/Individuo.cpp
+	"Individuo.h"
+
+1530591681 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1530832701 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1535943318 /home/andrey/Documentos/Codigos/GA_ST_CORE_1/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555901 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/Vertice.cpp
+	"Vertice.h"
+
+1536550627 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_1/GA.cpp
+	"GA.h"
+
+1530502359 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Grafo.cpp
+	"Grafo.h"
+
+1530502173 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1518841768 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Vertice.h
+
+1520456873 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1530591653 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Individuo.cpp
+	"Individuo.h"
+
+1530591681 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1518841755 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Vertice.cpp
+	"Vertice.h"
+
+1536623948 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Aux.cpp
+	"Aux.h"
+
+1536633520 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/GA.cpp
+	"GA.h"
+
+1536632771 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1536624110 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/Populacao.cpp
+	"Populacao.h"
+
+1536632730 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Stead/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1536785871 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/GA.cpp
+	"GA.h"
+
+1536720231 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1530591681 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1530502173 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1518841768 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Vertice.h
+
+1520456873 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1530502359 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Grafo.cpp
+	"Grafo.h"
+
+1530591653 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Individuo.cpp
+	"Individuo.h"
+
+1536632730 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1536624110 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Populacao.cpp
+	"Populacao.h"
+
+1518841755 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Vertice.cpp
+	"Vertice.h"
+
+1536636173 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady/Aux.cpp
+	"Aux.h"
+
+1537978939 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/GA.cpp
+	"GA.h"
+
+1537928351 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1536874929 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1536874384 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1537295658 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Vertice.h
+
+1536875189 /home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1536874972 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Individuo.cpp
+	"Individuo.h"
+
+1536632730 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1536875153 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Populacao.cpp
+	"Populacao.h"
+
+1536874434 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Grafo.cpp
+	"Grafo.h"
+
+1537901901 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Aux.cpp
+	"Aux.h"
+
+1537295856 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Arvore_Steady_Double/Vertice.cpp
+	"Vertice.h"
+
+1537901901 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Vertice.h
+
+1536874434 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Grafo.cpp
+	"Grafo.h"
+
+1536874384 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	"Vertice.h"
+	"Aux.h"
+
+1536874972 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Individuo.cpp
+	"Individuo.h"
+
+1536874929 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1536632730 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1538116777 /home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1536875153 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Populacao.cpp
+	"Populacao.h"
+
+1537295856 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/Vertice.cpp
+	"Vertice.h"
+
+1538119529 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_Steiner/GA.cpp
+	"GA.h"
+
+1537901901 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Vertice.h
+
+1538370179 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Grafo.cpp
+	"Grafo.h"
+
+1538362555 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<omp.h>
+	"Vertice.h"
+	"Aux.h"
+
+1536874972 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Individuo.cpp
+	"Individuo.h"
+
+1536874929 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Individuo.h
+	<vector>
+	<algorithm>
+	"Grafo.h"
+	"Aux.h"
+
+1536875153 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Populacao.cpp
+	"Populacao.h"
+
+1530555835 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1537295856 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/Vertice.cpp
+	"Vertice.h"
+
+1538360653 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1538116777 /home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1538362567 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_pontos/GA.cpp
+	"GA.h"
+
+1538499614 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Vertice.h
+
+1538583466 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/GA.cpp
+	"GA.h"
+
+1538541052 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1538543582 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1538529841 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Individuo.h
+	<vector>
+	<algorithm>
+	<omp.h>
+	"Grafo.h"
+	"Aux.h"
+
+1538528669 /home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<omp.h>
+	"Vertice.h"
+	"Aux.h"
+
+1538529952 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Individuo.cpp
+	"Individuo.h"
+
+1538578165 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1538583311 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Populacao.cpp
+	"Populacao.h"
+
+1537295856 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Vertice.cpp
+	"Vertice.h"
+
+1538529239 source:/home/andrey/Documentos/Codigos/GA_ST_CORE_novo/Grafo.cpp
+	"Grafo.h"
+
+1538499614 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/23/GA_ST_CORE_DE/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/23/GA_ST_CORE_DE/Vertice.h
+
+1553740454 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/GA.cpp
+	"GA.h"
+
+1553718528 /home/andrey/Documentos/23/GA_ST_CORE_DE/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1538543582 /home/andrey/Documentos/23/GA_ST_CORE_DE/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1553711058 /home/andrey/Documentos/23/GA_ST_CORE_DE/Individuo.h
+	<vector>
+	<algorithm>
+	<omp.h>
+	"Grafo.h"
+	"Aux.h"
+
+1538528669 /home/andrey/Documentos/23/GA_ST_CORE_DE/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<omp.h>
+	"Vertice.h"
+	"Aux.h"
+
+1538529239 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/Grafo.cpp
+	"Grafo.h"
+
+1553718111 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/Individuo.cpp
+	"Individuo.h"
+
+1538578165 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1538583311 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/Populacao.cpp
+	"Populacao.h"
+
+1537295856 source:/home/andrey/Documentos/23/GA_ST_CORE_DE/Vertice.cpp
+	"Vertice.h"
+
+1538499614 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/Vertice.h
+
+1538529239 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/Grafo.cpp
+	"Grafo.h"
+
+1538528669 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<omp.h>
+	"Vertice.h"
+	"Aux.h"
+
+1553718111 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/Individuo.cpp
+	"Individuo.h"
+
+1553711058 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/Individuo.h
+	<vector>
+	<algorithm>
+	<omp.h>
+	"Grafo.h"
+	"Aux.h"
+
+1538578165 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1538543582 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1554226974 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1538583311 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/Populacao.cpp
+	"Populacao.h"
+
+1537295856 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/Vertice.cpp
+	"Vertice.h"
+
+1554313929 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_2/GA.cpp
+	"GA.h"
+	"delaunator.hpp"
+
+1553881722 /home/andrey/Documentos/23/GA_ST_CORE_DE_2/delaunator.hpp
+	<algorithm>
+	<cmath>
+	<exception>
+	<iostream>
+	<limits>
+	<memory>
+	<utility>
+	<vector>
+
+1538499614 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Aux.cpp
+	"Aux.h"
+
+1536875189 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Aux.h
+	<cmath>
+	<iostream>
+	<fstream>
+	"Vertice.h"
+
+1537295658 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Vertice.h
+
+1538529239 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Grafo.cpp
+	"Grafo.h"
+
+1538528669 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Grafo.h
+	<iostream>
+	<cstdlib>
+	<string>
+	<vector>
+	<fstream>
+	<omp.h>
+	"Vertice.h"
+	"Aux.h"
+
+1553718111 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Individuo.cpp
+	"Individuo.h"
+
+1553711058 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Individuo.h
+	<vector>
+	<algorithm>
+	<omp.h>
+	"Grafo.h"
+	"Aux.h"
+
+1538578165 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/main.cpp
+	<iostream>
+	<chrono>
+	"Grafo.h"
+	"Populacao.h"
+	"GA.h"
+
+1538543582 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Populacao.h
+	<vector>
+	<cmath>
+	<iomanip>
+	<sstream>
+	"Individuo.h"
+
+1556556264 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/GA.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<sstream>
+	"Populacao.h"
+	"Individuo.h"
+	"Aux.h"
+
+1538583311 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Populacao.cpp
+	"Populacao.h"
+
+1537295856 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/Vertice.cpp
+	"Vertice.h"
+
+1556582295 source:/home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/GA.cpp
+	"GA.h"
+	"delaunator.hpp"
+
+1553881722 /home/andrey/Documentos/23/GA_ST_CORE_DE_Delaunay/delaunator.hpp
+	<algorithm>
+	<cmath>
+	<exception>
+	<iostream>
+	<limits>
+	<memory>
+	<utility>
+	<vector>
+
